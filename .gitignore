@@ -1,0 +1,22 @@
+anvil
+
+html/application/config/database.php
+html/application/config/constants.php
+
+*/config/development
+*/logs/log-*.php
+!*/logs/index.html
+*/cache/*
+!*/cache/index.html
+!*/cache/.htaccess
+
+html/user_guide_src/build/*
+html/user_guide_src/cilexer/build/*
+html/user_guide_src/cilexer/dist/*
+html/user_guide_src/cilexer/pycilexer.egg-info/*
+
+#codeigniter 3
+html/application/logs/*
+!html/application/logs/index.html
+!html/application/logs/.htaccess
+html/vendor/*
