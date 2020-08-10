@@ -14,9 +14,9 @@ console.log = function(d) { //
 
 var connection = mysql.createConnection({
   host     : 'localhost',
-  user     : 'root',
-  password : 'bogipogi',
-  database : 'cias'
+  user     : '',
+  password : '',
+  database : ''
 });
 
 gbanks = {
