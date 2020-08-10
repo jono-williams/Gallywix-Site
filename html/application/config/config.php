@@ -533,13 +533,13 @@ $config['proxy_ips'] = '';
 */
 
 $config['DISCORD_CLIENT_ID'] = "577243084639698954";
-$config['DISCORD_CLIENT_SECRET'] = "M-PhHa8jRdi5VE5iA-jhgAX5ZxCSl-bZ";
-$config['DISCORD_BOT_TOKEN'] = "NTc3MjQzMDg0NjM5Njk4OTU0.XpXZlA.VII__X56a4dhju0LkwRLeGrwONY";
-$config['DISCORD_BOT_TOKEN'] = "NTc3MjQzMDg0NjM5Njk4OTU0.XpXZlA.VII__X56a4dhju0LkwRLeGrwONY";
+$config['DISCORD_CLIENT_SECRET'] = "";
+$config['DISCORD_BOT_TOKEN'] = "";
+$config['DISCORD_BOT_TOKEN'] = "";
 $config['GUILD_ID'] = "443203800728207371";
 $config['GUILD_CHANNEL'] = "613175346375819264";
-$config['BATTLENET_CLIENT_ID'] = "8833ca03b3c2459ab4770ec477a7eb2c";
-$config['BATTLENET_CLIENT_SECRET'] = "O3ahYJhA27037uywf2w8nQK2SisBsF0P";
+$config['BATTLENET_CLIENT_ID'] = "";
+$config['BATTLENET_CLIENT_SECRET'] = "";
 
 # EU CYCLE
 $config['eu_cycle_start'] = "2020-04-29";
